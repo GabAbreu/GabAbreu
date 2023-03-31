@@ -1,11 +1,3 @@
-### Hi there 👋
-
-- :smile: My Name is Gabriel, i am 23 years old
-- 🔭 I’m currently working on [Nita Alimentos S/A](https://nita.com.br/?utm_source=google&utm_medium=search-branding&utm_campaign=marca&https://nita.com.br/&gclid=Cj0KCQjwjvaYBhDlARIsAO8PkE1RH0njpCxscLWKzh6khluyJChBTR9QWP0B5IzcbAO4EWtT0bZAuoUaAnb2EALw_wcB?utm_source=google&utm_medium=search-branding&utm_campaign=marca&https://nita.com.br/&gclid=Cj0KCQjwjvaYBhDlARIsAO8PkE1RH0njpCxscLWKzh6khluyJChBTR9QWP0B5IzcbAO4EWtT0bZAuoUaAnb2EALw_wcB)
-- 🌱 I’m currently learning [React](https://www.youtube.com/watch?v=bMknfKXIFA8&t=17159s) and [typescript](https://www.typescriptlang.org/)
-- 🤔 I’m looking for help with [Progress OpenEdge](https://www.progress.com/openedge?kw=&cpn=14413169976&&utm_source=google&utm_medium=cpc&utm_campaign=sitefinity-brand-search-en-NA&ad_group=openedge-dsa-search-en-CALA&utm_term=DYNAMIC+SEARCH+ADS&ad_copy=&ad_type=&ad_size=&ad_placement=&gclid=Cj0KCQjwjvaYBhDlARIsAO8PkE0W9CmDojF57OOEqYTzFtjkxVFGEjaObt-oD5-Qc75eikfY0vlmBFgaAgFaEALw_wcB&gclsrc=aw.ds)
-- ⚡ Fun fact: Always learning :D
-
 <div align="center">
   <a href="https://github.com/gababreu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gababreu&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
