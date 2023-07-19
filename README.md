@@ -1,8 +1,9 @@
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/gababreu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gababreu&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gababreu&layout=compact&langs_count=7&theme=dark" />
-</div>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabAbreu&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabAbreu&layout=compact&langs_count=7&theme=dark" />
+</div>-->
 
 <div style="display: inline_block" align="center"><br>  
   <img align="center" alt="NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg"/>
@@ -24,10 +25,10 @@
  <a href="https://github.com/GabAbreu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gabriel-de-abreu-e-silva-9a08851a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  <div align="center">
+  <!--<div align="center">
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  </div>
+  </div>-->
   
 </div>
 
